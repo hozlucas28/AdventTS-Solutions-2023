@@ -1,7 +1,7 @@
 import type { Equal, Expect } from 'type-testing'
 import type { RemoveNaughtyChildren } from './solution'
 
-describe('Challenge 08: remove key names starting with "naughty" from attributes of an object', () => {
+describe('Challenge 08: remove attributes from an object which key names starts with "naughty"', () => {
 	it('Test 01', () => {
 		type SantasList = {
 			naughty_tom: { address: '1 candy cane lane' }

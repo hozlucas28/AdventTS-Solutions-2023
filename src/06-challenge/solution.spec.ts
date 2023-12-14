@@ -1,7 +1,7 @@
 import type { Equal, Expect } from 'type-testing'
 import type { FilterChildrenBy } from './solution'
 
-describe('Challenge 06: create a generic type to exclude from first parameter all values inside the second one', () => {
+describe('Challenge 06: exclude from first parameter all values inside the second one', () => {
 	it('Test 01', () => {
 		type Actual = FilterChildrenBy<'nice' | 'nice' | 'nice', 'naughty'>
 		type Expected = 'nice'

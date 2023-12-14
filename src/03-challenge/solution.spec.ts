@@ -1,7 +1,7 @@
 import type { Equal, Expect } from 'type-testing'
 import type { GiftWrapper } from './solution'
 
-describe('Challenge 03: object type with parameters to provide specific values for Present, From, and To attributes', () => {
+describe('Challenge 03: define specific type values for Present, From, and To attributes', () => {
 	it('Test 01', () => {
 		type Actual = GiftWrapper<'Car', 'Santa', 'Trash'>
 		type Expected = { from: 'Santa'; present: 'Car'; to: 'Trash' }

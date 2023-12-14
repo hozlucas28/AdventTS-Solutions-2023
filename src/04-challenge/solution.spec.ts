@@ -6,7 +6,7 @@ type Address = {
 	city: string
 }
 
-describe('Challenge 04: object type that takes a type as a parameter and then replace the values of each property with an address', () => {
+describe('Challenge 04: replace the values of each attributes of an object with an address', () => {
 	it('Test 01', () => {
 		type MixedBehaviorList = {
 			john: { behavior: 'good' }

@@ -1,7 +1,7 @@
 import type { Equal, Expect } from 'type-testing'
 import type { SantasList } from './solution'
 
-describe('Challenge 05: create a tuple type with the values of two lists (parameters) combined', () => {
+describe('Challenge 05: create an array with the values of two arrays combined', () => {
 	it('Test 01', () => {
 		type Actual = SantasList<['tommy', 'trash'], ['bash', 'tru']>
 		type Expected = ['tommy', 'trash', 'bash', 'tru']

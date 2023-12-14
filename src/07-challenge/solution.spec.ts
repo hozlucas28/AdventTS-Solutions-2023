@@ -1,7 +1,7 @@
 import type { Equal, Expect } from 'type-testing'
 import type { AppendGood } from './solution'
 
-describe('Challenge 07: generic type that takes an object, as a parameter, and renames the key names', () => {
+describe('Challenge 07: rename keys of an object', () => {
 	it('Test 01', () => {
 		type WellBehavedList = {
 			tom: { address: '1 candy cane lane' }

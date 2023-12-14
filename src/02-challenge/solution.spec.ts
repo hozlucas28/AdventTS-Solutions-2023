@@ -1,7 +1,7 @@
 import type { Equal, Expect } from 'type-testing'
 import type { CookieSurveyInput } from './solution'
 
-describe('Challenge 02: union type of all of the names of the various different cookies', () => {
+describe('Challenge 02: create a union with all names of the various different cookies', () => {
 	it('Test 01', () => {
 		const cookieInventory = {
 			chocolate: 1,
