@@ -21,4 +21,4 @@ type DanToEvan = GiftWrapper<'javascript', 'Dan', 'Evan'>
 // { from: 'Dan', present: 'javascript', to: 'Evan' }
 ```
 
-> prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)

@@ -38,4 +38,4 @@ type CookieSurvey02 = CookieSurveyInput<typeof unrelated>
 // "hi" | "hi2" | "hi3" | "hi4" | "hi5" | "hi6" | "hi7"
 ```
 
-> prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)

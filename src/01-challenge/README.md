@@ -17,4 +17,4 @@ Can you help?
 type favoriteCookies = SantasFavoriteCookies // 'ginger-bread' | 'chocolate-chip'
 ```
 
-> prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
