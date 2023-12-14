@@ -21,32 +21,15 @@ _[Santa]_ Look, this is just an MVP. We can add accessibility later. Just get me
 ## Expected Behavior
 
 ```ts
-type Reversed01 = Reverse<'rehsaD'>
-// 'Dasher'
-
-type Reversed02 = Reverse<'recnaD'>
-// 'Dancer'
-
-type Reversed03 = Reverse<'recnarP'>
-// 'Prancer'
-
-type Reversed04 = Reverse<'nexiV'>
-// 'Vixen'
-
-type Reversed05 = Reverse<'temoC'>
-// 'Comet'
-
-type Reversed06 = Reverse<'dipuC'>
-// 'Cupid'
-
-type Reversed07 = Reverse<'rennoD'>
-// 'Donner'
-
-type Reversed08 = Reverse<'neztilB'>
-// 'Blitzen'
-
-type Reversed09 = Reverse<'hploduR'>
-// 'Rudolph'
+type Reversed01 = Reverse<'rehsaD'> // 'Dasher'
+type Reversed02 = Reverse<'recnaD'> // 'Dancer'
+type Reversed03 = Reverse<'recnarP'> // 'Prancer'
+type Reversed04 = Reverse<'nexiV'> // 'Vixen'
+type Reversed05 = Reverse<'temoC'> // 'Comet'
+type Reversed06 = Reverse<'dipuC'> // 'Cupid'
+type Reversed07 = Reverse<'rennoD'> // 'Donner'
+type Reversed08 = Reverse<'neztilB'> // 'Blitzen'
+type Reversed09 = Reverse<'hploduR'> // 'Rudolph'
 ```
 
 > Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)

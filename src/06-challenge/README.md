@@ -27,14 +27,9 @@ Take a look at the tests. There, you'll see some examples.
 ## Expected Behavior
 
 ```ts
-type FilteredChildren01 = FilterChildrenBy<'nice' | 'nice' | 'nice', 'naughty'>
-// 'nice'
-
-type FilteredChildren02 = FilterChildrenBy<'nice' | 'naughty' | 'naughty', 'naughty'>
-// 'nice'
-
-type FilteredChildren03 = FilterChildrenBy<string | number | (() => void), Function>
-// string | number
+type FilteredChildren01 = FilterChildrenBy<'nice' | 'nice' | 'nice', 'naughty'> // 'nice'
+type FilteredChildren02 = FilterChildrenBy<'nice' | 'naughty' | 'naughty', 'naughty'> // 'nice'
+type FilteredChildren03 = FilterChildrenBy<string | number | (() => void), Function> // string | number
 ```
 
 Note: _the engineering team manager triple checked with Santa because this seems like a strange way to keep track of naughty and nice children, but Santa ensured the manager that this is exactly what he wants._

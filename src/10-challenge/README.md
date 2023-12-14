@@ -25,17 +25,10 @@ If the street ends with the suffix then the type should return `true` (otherwise
 ## Expected Behavior
 
 ```ts
-type Test01 = StreetSuffixTester<'Candy Cane Way', 'Way'>
-// true
-
-type Test02 = StreetSuffixTester<'Chocalate Drive', 'Drive'>
-// true
-
-type Test03 = StreetSuffixTester<'Sugar Lane', 'Drive'>
-// false
-
-type Test04 = StreetSuffixTester<'Fifth Dimensional Nebulo 9', 'invalid'>
-// false
+type Test01 = StreetSuffixTester<'Candy Cane Way', 'Way'> // true
+type Test02 = StreetSuffixTester<'Chocalate Drive', 'Drive'> // true
+type Test03 = StreetSuffixTester<'Sugar Lane', 'Drive'> // false
+type Test04 = StreetSuffixTester<'Fifth Dimensional Nebulo 9', 'invalid'> // false
 ```
 
 > Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
