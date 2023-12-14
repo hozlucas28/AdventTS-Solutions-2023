@@ -6,7 +6,7 @@ _[Bernard]_ This is bullshit, Kris. I've been leading the Elves for 200+ years. 
 
 _[Santa]_ Remember, we're like a family here; we all make sacrifices! We're still a startup!
 
-_[Bernard]_ I swear to you. I think if I hear another hussle-culture quip from you.... I think my little elf head will explode.
+_[Bernard]_ I swear to you. I think if I hear another hussle-culture quip from you... I think my little elf head will explode.
 
 _[Santa]_ If you can stick to it now and get us through one more year, there will definitely be rewards down the line.
 

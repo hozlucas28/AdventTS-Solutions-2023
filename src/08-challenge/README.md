@@ -18,7 +18,7 @@ Looks like we need some changes to the code again!
 
 1. There are sometimes naughty kids in the same list
 1. Turns out I don't actually need to see the nice children in the list, after all
-1. My golf game ran late this morning.. so since the other two changes were quick to implement, I'm sure this will be just as fast, right?!
+1. My golf game ran late this morning... so since the other two changes were quick to implement, I'm sure this will be just as fast, right?!
 
 - Kris Kringle
   "at Santa's workshop, we value loyalty over all else"

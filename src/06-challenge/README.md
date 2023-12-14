@@ -10,7 +10,7 @@ _[elves]_ _grumble grumble_ ok. cool. do you need something?
 
 _[Santa]_ YES! So glad you asked! I'd like an idea of how many kids have been nice. I want to be able to filter out all the naughty kids sometimes, and filter out the nice kids other times.
 
-_[elf manager]_ ok. that's fine. we'll add a ticket for the next sprint..
+_[elf manager]_ ok. that's fine. we'll add a ticket for the next sprint...
 
 _[Santa]_ Oh! No time for story points and JIRA tickets, I'm afraid! I need this done pronto!
 
