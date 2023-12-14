@@ -5,4 +5,4 @@ type Address = {
 }
 
 // Solution
-export type PresentDeliveryList<T extends object> = Record<keyof T, Address>
+export type PresentDeliveryList<T extends Object> = Record<keyof T, Address>
