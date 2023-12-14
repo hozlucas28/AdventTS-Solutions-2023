@@ -29,9 +29,21 @@
     Challenges
 </h2>
 
-|  #  | Challenge                                       |        Description         |
-| :-: | ----------------------------------------------- | :------------------------: |
-| 01  | Create a type to accept either of Santa favorite cookies | [Show](./src/01-challenge) |
+|  #  | Challenge                                                                                                 |        Description         |
+| :-: | --------------------------------------------------------------------------------------------------------- | :------------------------: |
+| 01  | Create a type to accept either of Santa favorite cookies                                                  | [Show](./src/01-challenge) |
+| 02  | Union type of all of the names of the various different cookies                                           | [Show](./src/02-challenge) |
+| 03  | Object type with parameters to provide specific values for Present, From, and To attributes               | [Show](./src/03-challenge) |
+| 04  | Object type that takes a type as a parameter and then replace the values of each property with an address | [Show](./src/04-challenge) |
+| 05  | Create a tuple type with the values of two lists (parameters) combined                                    | [Show](./src/05-challenge) |
+| 06  | Create a generic type to exclude from first parameter all values inside the second one                    | [Show](./src/06-challenge) |
+| 07  | Generic type that takes an object, as a parameter, and renames the key names                              | [Show](./src/07-challenge) |
+| 08  | Remove key names starting with "naughty" from attributes of an object                                     | [Show](./src/08-challenge) |
+| 09  | Reverse a string                                                                                          | [Show](./src/09-challenge) |
+| 10  | Check if a string ends with another string                                                                | [Show](./src/10-challenge) |
+| 11  | Deep Readonly                                                                                             | [Show](./src/11-challenge) |
+| 12  | Find index where Santa is                                                                                 | [Show](./src/12-challenge) |
+| 13  | Create a union range from the first parameter to the second one                                           | [Show](./src/13-challenge) |
 
 <h2>
     License
