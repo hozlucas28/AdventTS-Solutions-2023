@@ -1,5 +1,5 @@
-import { Equal, Expect } from 'type-testing'
-import { SantasFavoriteCookies } from './solution'
+import type { Equal, Expect } from 'type-testing'
+import type { SantasFavoriteCookies } from './solution'
 
 describe('Challenge 01: create a type to accept either of Santa favorite cookies', () => {
 	it('Test 01', () => {
