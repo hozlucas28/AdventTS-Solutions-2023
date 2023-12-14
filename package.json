@@ -18,6 +18,18 @@
     "scripts": {
         "test": "clear && jest",
         "prepare": "husky install",
-        "test:challenge01": "clear && jest --testPathPattern='/src/01-challenge/.*\\.spec\\.ts$'"
+        "test:challenge01": "clear && jest --testPathPattern='/src/01-challenge/.*\\.spec\\.ts$'",
+        "test:challenge02": "clear && jest --testPathPattern='/src/02-challenge/.*\\.spec\\.ts$'",
+        "test:challenge03": "clear && jest --testPathPattern='/src/03-challenge/.*\\.spec\\.ts$'",
+        "test:challenge04": "clear && jest --testPathPattern='/src/04-challenge/.*\\.spec\\.ts$'",
+        "test:challenge05": "clear && jest --testPathPattern='/src/05-challenge/.*\\.spec\\.ts$'",
+        "test:challenge06": "clear && jest --testPathPattern='/src/06-challenge/.*\\.spec\\.ts$'",
+        "test:challenge07": "clear && jest --testPathPattern='/src/07-challenge/.*\\.spec\\.ts$'",
+        "test:challenge08": "clear && jest --testPathPattern='/src/08-challenge/.*\\.spec\\.ts$'",
+        "test:challenge09": "clear && jest --testPathPattern='/src/09-challenge/.*\\.spec\\.ts$'",
+        "test:challenge10": "clear && jest --testPathPattern='/src/10-challenge/.*\\.spec\\.ts$'",
+        "test:challenge11": "clear && jest --testPathPattern='/src/11-challenge/.*\\.spec\\.ts$'",
+        "test:challenge12": "clear && jest --testPathPattern='/src/12-challenge/.*\\.spec\\.ts$'",
+        "test:challenge13": "clear && jest --testPathPattern='/src/13-challenge/.*\\.spec\\.ts$'"
     }
 }
