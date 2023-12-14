@@ -1,0 +1,10 @@
+import { Equal, Expect } from 'type-testing'
+import { SantasFavoriteCookies } from './solution'
+
+describe('Challenge 01: create a type to accept either of Santa favorite cookies', () => {
+	it('Test 01', () => {
+		type Actual = SantasFavoriteCookies
+		type Expected = 'ginger-bread' | 'chocolate-chip'
+		type Test = Expect<Equal<Actual, Expected>>
+	})
+})
