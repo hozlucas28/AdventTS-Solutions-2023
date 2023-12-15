@@ -45,6 +45,7 @@
 | 12  | Find index where Santa is                                              | [Show](./src/12-challenge) |
 | 13  | Create a union range from the first parameter to the second one        | [Show](./src/13-challenge) |
 | 14  | Turn a string into a union of strings                                  | [Show](./src/14-challenge) |
+| 15  | Create an array of "n" strings with a string and an union of numbers   | [Show](./src/15-challenge) |
 
 <h2>
     License
