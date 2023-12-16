@@ -8,6 +8,7 @@
 
 <p align="center">
     <a href="#----summary">Summary</a> •
+    <a href="#----installation">Installation</a> •
     <a href="#----challenges">Challenges</a> •
     <a href="#----license">License</a> •
     <a href="#----acknowledgments">Acknowledgments</a> •
@@ -24,6 +25,19 @@
 <p>
     This repository serves as a housing solutions to types challenges of <a href="https://typehero.dev/aot-2023" target="_blank">Advent of TypeScript<a>. AdventTS, a project developed by <a href="https://typehero.dev/" target="_blank">Typehero</a>, offers a platform for developers to improve their type definitions skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
 </p>
+
+<h2>
+    Installation
+</h2>
+<ol>
+    <li>Clone the repository</li>
+    <li>Install the latest version of <a href="https://nodejs.org/es/" target="_blank">Node.js<a> and globally install <a href="https://pnpm.io/installation#using-npm" target="_blank">pnpm<a></li>
+    <li>Navigate to the directory where you cloned the repository with your favorite CLI</li>
+    <li>Run <code>pnpm install</code> in your CLI to install all necessary packages</li>
+    <li>Finally, run <code>pnpm test</code> in your CLI to execute all challenges/tests</li>
+</ol>
+
+> **Note:** If you want to run a specific challenge/test, execute `pnpm run test:challenge<number>`.
 
 <h2>
     Challenges
