@@ -62,6 +62,7 @@
 | 15  | Create an array of "n" strings with a string and an union of numbers   | [Show](./src/15-challenge) |
 | 16  | Find index where Santa is inside an array of arrays                    | [Show](./src/16-challenge) |
 | 17  | Create a type definition to play rock paper scissors game              | [Show](./src/17-challenge) |
+| 18  | Count how many toys of the specified toy are inside the toy stack      | [Show](./src/18-challenge) |
 
 <h2>
     License
