@@ -64,6 +64,7 @@
 | 17  | Create a type definition to play rock paper scissors game              | [Show](./src/17-challenge) |
 | 18  | Count how many toys of the specified toy are inside the toy stack      | [Show](./src/18-challenge) |
 | 19  | Create an array of "n" elements based on an array of numbers           | [Show](./src/19-challenge) |
+| 20  | Turn a string into an ASCII art                                        | [Show](./src/20-challenge) |
 
 <h2>
     License
