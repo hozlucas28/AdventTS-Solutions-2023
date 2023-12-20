@@ -1,12 +1,16 @@
 // Helpers
 type Toys = ['🛹', '🚲', '🛴', '🏄']
 
-type Multiply<T extends Toy, N extends number, Acc extends Toys[] = []> = Acc['length'] extends N
+type Toy = Toys[number]
+
+type Multiply<T extends Toy, N extends number, Acc extends Toy[] = []> = Acc['length'] extends N
 	? Acc
-	: Multiply<T, N, [...Acc, T]>
+	: N extends 0
+		? Acc
+		: Multiply<T, N, [...Acc, T]>
 
 // Solution
-export type Rebuild<T extends number[], Counter extends 1[] = [], Acc extends Toys[] = []> = T extends [
+export type Rebuild<T extends number[], Counter extends 1[] = [], Acc extends Toy[] = []> = T extends [
 	infer Head extends number,
 	...infer Tail extends number[],
 ]
