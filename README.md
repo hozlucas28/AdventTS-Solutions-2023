@@ -66,6 +66,7 @@
 | 19  | Create an array of "n" elements based on an array of numbers           | [Show](./src/19-challenge) |
 | 20  | Turn a string into an ASCII art                                        | [Show](./src/20-challenge) |
 | 21  | Create a type definition to play Tic Tac Toe game                      | [Show](./src/21-challenge) |
+| 22  | Check if a Sudoku board is valid                                       | [Show](./src/22-challenge) |
 
 <h2>
     License
