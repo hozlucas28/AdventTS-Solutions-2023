@@ -61,10 +61,11 @@
 | 14  | Turn a string into a union of strings                                  | [Show](./src/14-challenge) |
 | 15  | Create an array of "n" strings with a string and an union of numbers   | [Show](./src/15-challenge) |
 | 16  | Find index where Santa is inside an array of arrays                    | [Show](./src/16-challenge) |
-| 17  | Create a type definition to play rock paper scissors game              | [Show](./src/17-challenge) |
+| 17  | Create a type definition to play Rock Paper Scissors game              | [Show](./src/17-challenge) |
 | 18  | Count how many toys of the specified toy are inside the toy stack      | [Show](./src/18-challenge) |
 | 19  | Create an array of "n" elements based on an array of numbers           | [Show](./src/19-challenge) |
 | 20  | Turn a string into an ASCII art                                        | [Show](./src/20-challenge) |
+| 21  | Create a type definition to play Tic Tac Toe game                      | [Show](./src/21-challenge) |
 
 <h2>
     License
