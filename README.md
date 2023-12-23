@@ -43,30 +43,30 @@
     Challenges
 </h2>
 
-|  #  | Challenge                                                              |        Description         |
-| :-: | ---------------------------------------------------------------------- | :------------------------: |
-| 01  | Create a union of any Santa favorite cookies                           | [Show](./src/01-challenge) |
-| 02  | Create a union with all names of the various different cookies         | [Show](./src/02-challenge) |
-| 03  | Define specific type values for Present, From, and To attributes       | [Show](./src/03-challenge) |
-| 04  | Replace the values of each attributes of an object with an address     | [Show](./src/04-challenge) |
-| 05  | Create an array with the values of two arrays combined                 | [Show](./src/05-challenge) |
-| 06  | Exclude from first parameter all values inside the second one          | [Show](./src/06-challenge) |
-| 07  | Rename keys of an object                                               | [Show](./src/07-challenge) |
-| 08  | Remove attributes from an object which key names starts with "naughty" | [Show](./src/08-challenge) |
-| 09  | Reverse a string                                                       | [Show](./src/09-challenge) |
-| 10  | Check if a string ends with another string                             | [Show](./src/10-challenge) |
-| 11  | Deep Readonly                                                          | [Show](./src/11-challenge) |
-| 12  | Find index where Santa is inside an array                              | [Show](./src/12-challenge) |
-| 13  | Create a union range from the first parameter to the second one        | [Show](./src/13-challenge) |
-| 14  | Turn a string into a union of strings                                  | [Show](./src/14-challenge) |
-| 15  | Create an array of "n" strings with a string and an union of numbers   | [Show](./src/15-challenge) |
-| 16  | Find index where Santa is inside an array of arrays                    | [Show](./src/16-challenge) |
-| 17  | Create a type definition to play Rock Paper Scissors game              | [Show](./src/17-challenge) |
-| 18  | Count how many toys of the specified toy are inside the toy stack      | [Show](./src/18-challenge) |
-| 19  | Create an array of "n" elements based on an array of numbers           | [Show](./src/19-challenge) |
-| 20  | Turn a string into an ASCII art                                        | [Show](./src/20-challenge) |
-| 21  | Create a type definition to play Tic Tac Toe game                      | [Show](./src/21-challenge) |
-| 22  | Check if a Sudoku board is valid                                       | [Show](./src/22-challenge) |
+|  #  | Challenge                                                              | Difficulty |        Description         |
+| :-: | ---------------------------------------------------------------------- | :--------: | :------------------------: |
+| 01  | Create a union of any Santa favorite cookies                           |     🟢     | [Show](./src/01-challenge) |
+| 02  | Create a union with all names of the various different cookies         |     🟢     | [Show](./src/02-challenge) |
+| 03  | Define specific type values for Present, From, and To attributes       |     🟢     | [Show](./src/03-challenge) |
+| 04  | Replace the values of each attributes of an object with an address     |     🟢     | [Show](./src/04-challenge) |
+| 05  | Create an array with the values of two arrays combined                 |     🟢     | [Show](./src/05-challenge) |
+| 06  | Exclude from first parameter all values inside the second one          |     🟢     | [Show](./src/06-challenge) |
+| 07  | Rename keys of an object                                               |     🟢     | [Show](./src/07-challenge) |
+| 08  | Remove attributes from an object which key names starts with "naughty" |     🟢     | [Show](./src/08-challenge) |
+| 09  | Reverse a string                                                       |     🟠     | [Show](./src/09-challenge) |
+| 10  | Check if a string ends with another string                             |     🟢     | [Show](./src/10-challenge) |
+| 11  | Deep Readonly                                                          |     🟢     | [Show](./src/11-challenge) |
+| 12  | Find index where Santa is inside an array                              |     🟠     | [Show](./src/12-challenge) |
+| 13  | Create a union range from the first parameter to the second one        |     🟠     | [Show](./src/13-challenge) |
+| 14  | Turn a string into a union of strings                                  |     🟢     | [Show](./src/14-challenge) |
+| 15  | Create an array of "n" strings with a string and an union of numbers   |     🟠     | [Show](./src/15-challenge) |
+| 16  | Find index where Santa is inside an array of arrays                    |     🟠     | [Show](./src/16-challenge) |
+| 17  | Create a type definition to play Rock Paper Scissors game              |     🟢     | [Show](./src/17-challenge) |
+| 18  | Count how many toys of the specified toy are inside the toy stack      |     🟢     | [Show](./src/18-challenge) |
+| 19  | Create an array of "n" elements based on an array of numbers           |     🟠     | [Show](./src/19-challenge) |
+| 20  | Turn a string into an ASCII art                                        |     🔴     | [Show](./src/20-challenge) |
+| 21  | Create a type definition to play Tic Tac Toe game                      |     🔴     | [Show](./src/21-challenge) |
+| 22  | Check if a Sudoku board is valid                                       |     🔴     | [Show](./src/22-challenge) |
 
 <h2>
     License
