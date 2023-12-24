@@ -67,6 +67,7 @@
 | 20  | Turn a string into an ASCII art                                        |     🔴     | [Show](./src/20-challenge) |
 | 21  | Create a type definition to play Tic Tac Toe game                      |     🔴     | [Show](./src/21-challenge) |
 | 22  | Check if a Sudoku board is valid                                       |     🔴     | [Show](./src/22-challenge) |
+| 23  | Create a type definition to play Connect 4 game                        |     🔴     | [Show](./src/23-challenge) |
 
 <h2>
     License
