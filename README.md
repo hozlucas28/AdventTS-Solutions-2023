@@ -68,6 +68,7 @@
 | 21  | Create a type definition to play Tic Tac Toe game                      |     🔴     | [Show](./src/21-challenge) |
 | 22  | Check if a Sudoku board is valid                                       |     🔴     | [Show](./src/22-challenge) |
 | 23  | Create a type definition to play Connect 4 game                        |     🔴     | [Show](./src/23-challenge) |
+| 24  | Create a type definition to play a maze with Santa as main character   |     🔴     | [Show](./src/24-challenge) |
 
 <h2>
     License
