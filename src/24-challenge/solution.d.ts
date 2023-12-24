@@ -1,5 +1,5 @@
 // Utils
-type ToString<T extends unknown> = `${T}`
+type ToString<T extends string | number | bigint | boolean | null | undefined> = `${T}`
 
 type ParseInt<Str extends string> = Str extends `${infer Digit extends number}` ? Digit : never
 
@@ -116,8 +116,8 @@ type ModifyBoard<Board extends MazeMatrix, NewItem extends MainCharacter | Alley
 ]
 
 type ModifyEntireRow<Row extends MazeItem[], NewItem extends string, Acc extends NewItem[] = []> = Row extends [
-	infer Head,
-	...infer Tail,
+	infer Head extends MazeItem,
+	...infer Tail extends MazeItem[],
 ]
 	? ModifyEntireRow<Tail, NewItem, [...Acc, NewItem]>
 	: Acc
