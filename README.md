@@ -69,6 +69,7 @@
 | 22  | Check if a Sudoku board is valid                                       |     🔴     | [Show](./src/22-challenge) |
 | 23  | Create a type definition to play Connect 4 game                        |     🔴     | [Show](./src/23-challenge) |
 | 24  | Create a type definition to play a maze with Santa as main character   |     🔴     | [Show](./src/24-challenge) |
+| 25  | The end of the journey                                                 |     🟢     | [Show](./src/25-challenge) |
 
 <h2>
     License
