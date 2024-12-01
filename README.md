@@ -30,11 +30,11 @@
     Installation
 </h2>
 <ol>
-    <li>Clone the repository</li>
-    <li>Install the latest version of <a href="https://nodejs.org/es/" target="_blank">Node.js<a> and globally install <a href="https://pnpm.io/installation#using-npm" target="_blank">pnpm<a></li>
-    <li>Navigate to the directory where you cloned the repository with your favorite CLI</li>
-    <li>Run <code>pnpm install</code> in your CLI to install all necessary packages</li>
-    <li>Finally, run <code>pnpm test</code> in your CLI to execute all challenges/tests</li>
+    <li>Clone the repository.</li>
+    <li>Install the latest version of <a href="https://nodejs.org/es/" target="_blank">Node.js<a> and globally install <a href="https://pnpm.io/installation#using-npm" target="_blank">pnpm<a>.</li>
+    <li>Navigate to the directory where you cloned the repository with your favorite CLI.</li>
+    <li>Run <code>pnpm install</code> in your CLI to install all necessary packages.</li>
+    <li>Finally, run <code>pnpm test</code> in your CLI to execute all challenges/tests.</li>
 </ol>
 
 > **Note:** If you want to run a specific challenge/test, execute `pnpm run test:challenge<number>`.
