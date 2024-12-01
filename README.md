@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-    Repository of <a href="https://typehero.dev/aot-2023" target="_blank">Advent of TypeScript<a>, types challenges, by <a href="https://typehero.dev/" target="_blank">Typehero</a>.
+    Repository of <a href="https://www.adventofts.com/events/2023" target="_blank">Advent of TypeScript<a>, types challenges, by <a href="https://typehero.dev/" target="_blank">Typehero</a>.
 </h4>
 
 <p align="center">
@@ -23,7 +23,7 @@
     Summary
 </h2>
 <p>
-    This repository serves as a housing solutions to types challenges of <a href="https://typehero.dev/aot-2023" target="_blank">Advent of TypeScript<a>. AdventTS, a project developed by <a href="https://typehero.dev/" target="_blank">Typehero</a>, offers a platform for developers to improve their type definitions skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
+    This repository serves as a housing solutions to types challenges of <a href="https://www.adventofts.com/events/2023" target="_blank">Advent of TypeScript<a>. AdventTS, a project developed by <a href="https://typehero.dev/" target="_blank">Typehero</a>, offers a platform for developers to improve their type definitions skills, through a series of daily challenges spanning 25 days. The challenge begins on December 1st and culminates on December 25th.
 </p>
 
 <h2>
@@ -82,7 +82,7 @@
     Acknowledgments
 </h2>
 <p>
-    Thanks to <a href="https://typehero.dev/" target="_blank">Typehero</a> team to develop <a href="https://typehero.dev/aot-2023" target="_blank">Advent of TypeScript<a>.
+    Thanks to <a href="https://typehero.dev/" target="_blank">Typehero</a> team to develop <a href="https://www.adventofts.com/events/2023" target="_blank">Advent of TypeScript<a>.
 </p>
 
 <h2>
