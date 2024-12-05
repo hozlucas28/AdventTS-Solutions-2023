@@ -78,17 +78,17 @@
 <p>
     <ul>
         <li>
-            <a href="https://github.com/hozlucas28/AdventTS-Solutions-2024" target="_blank">Solutions of the Advent of TypeScript - 2024</a>
-        </li>
-    </ul>
-    <ul>
-        <li>
             <a href="https://github.com/hozlucas28/AdventJS-Solutions-2023" target="_blank">Solutions of the AdventJS - 2023</a>
         </li>
     </ul>
     <ul>
         <li>
             <a href="https://github.com/hozlucas28/AdventJS-Solutions-2024" target="_blank">Solutions of the AdventJS - 2024</a>
+        </li>
+    </ul>
+    <ul>
+        <li>
+            <a href="https://github.com/hozlucas28/AdventTS-Solutions-2024" target="_blank">Solutions of the Advent of TypeScript - 2024</a>
         </li>
     </ul>
 </p>
