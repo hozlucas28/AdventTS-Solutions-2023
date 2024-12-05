@@ -10,6 +10,7 @@
     <a href="#----summary">Summary</a> •
     <a href="#----installation">Installation</a> •
     <a href="#----challenges">Challenges</a> •
+    <a href="#----related">Related</a> •
     <a href="#----license">License</a> •
     <a href="#----acknowledgments">Acknowledgments</a> •
     <a href="#----contact">Contact</a>
@@ -70,6 +71,17 @@
 | 23  | Create a type definition to play Connect 4 game                        |     🔴     | [Show](./src/23-challenge) |
 | 24  | Create a type definition to play a maze with Santa as main character   |     🔴     | [Show](./src/24-challenge) |
 | 25  | The end of the journey                                                 |     🟢     | [Show](./src/25-challenge) |
+
+<h2>
+    Related
+</h2>
+<p>
+    <ul>
+        <li>
+            <a href="https://github.com/hozlucas28/AdventTS-Solutions-2024" target="_blank">Solutions of the Advent of TypeScript - 2024</a>
+        </li>
+    </ul>
+</p>
 
 <h2>
     License
