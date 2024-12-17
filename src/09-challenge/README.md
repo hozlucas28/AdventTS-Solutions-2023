@@ -32,4 +32,4 @@ type Reversed08 = Reverse<'neztilB'> // 'Blitzen'
 type Reversed09 = Reverse<'hploduR'> // 'Rudolph'
 ```
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).

@@ -34,4 +34,4 @@ type FilteredChildren03 = FilterChildrenBy<string | number | (() => void), Funct
 
 Note: _the engineering team manager triple checked with Santa because this seems like a strange way to keep track of naughty and nice children, but Santa ensured the manager that this is exactly what he wants._
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).

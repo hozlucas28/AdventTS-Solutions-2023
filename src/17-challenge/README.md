@@ -31,4 +31,4 @@ type Game08 = WhoWins<'✌🏽', '✌🏽'> // 'draw'
 type Game09 = WhoWins<'✌🏽', '🖐🏾'> // 'lose'
 ```
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).

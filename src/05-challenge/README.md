@@ -46,4 +46,4 @@ type SantasList06 = SantasList<null, undefined>
 // Throws a TypeScript error
 ```
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).

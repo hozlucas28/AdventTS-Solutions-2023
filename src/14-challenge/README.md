@@ -36,4 +36,4 @@ type Test02 = DecipherNaughtyList<'elliot'> // 'elliot'
 type Test03 = DecipherNaughtyList<'melkey/prime/theo/trash'> // 'melkey' | 'prime' | 'theo' | 'trash'
 ```
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).

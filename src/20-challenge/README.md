@@ -82,4 +82,4 @@ type Art04 = ToAsciiArt<'  : * : * : * : * : * : * : \n  Ecyrbe  \n  : * : * : *
 */
 ```
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).

@@ -118,4 +118,4 @@ type Test05 = Count<ToySack, '🏎️'> // 3
 type Test06 = Count<ToySack, '📚'> // 5
 ```
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).

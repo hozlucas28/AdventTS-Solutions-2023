@@ -31,4 +31,4 @@ type Test03 = StreetSuffixTester<'Sugar Lane', 'Drive'> // false
 type Test04 = StreetSuffixTester<'Fifth Dimensional Nebulo 9', 'invalid'> // false
 ```
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).

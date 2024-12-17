@@ -51,4 +51,4 @@ type Nutcracker = BoxToys<'nutcracker', 3 | 4>
 // ['nutcracker', 'nutcracker', 'nutcracker'] | ['nutcracker', 'nutcracker', 'nutcracker', 'nutcracker']
 ```
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).

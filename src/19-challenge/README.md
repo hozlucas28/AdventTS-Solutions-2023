@@ -35,4 +35,4 @@ type Build03 = Rebuild<[2, 3, 3, 5, 1, 1, 2]>
 // ['🛹', '🛹', '🚲', '🚲', '🚲', '🛴', '🛴', '🛴', '🏄', '🏄', '🏄', '🏄', '🏄', '🛹', '🚲', '🛴', '🛴']
 ```
 
-> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript)
+> Prompt by [Dimitri Mitropoulos](https://github.com/dimitropoulos) of [MiTS](https://www.youtube.com/@MichiganTypeScript).
