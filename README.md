@@ -2,9 +2,9 @@
     AdventTS Solutions [2023] 🎅🎄
 </h1>
 
-<h4 align="center">
-    Repository of <a href="https://www.adventofts.com/events/2023" target="_blank">Advent of TypeScript<a>, types challenges, by <a href="https://typehero.dev/" target="_blank">Typehero</a>.
-</h4>
+<p align="center">
+    <strong>Repository of <a href="https://www.adventofts.com/events/2023" target="_blank">Advent of TypeScript<a>, types challenges, by <a href="https://typehero.dev/" target="_blank">Typehero</a>.</strong>
+</p>
 
 <p align="center">
     <a href="#----summary">Summary</a> •
